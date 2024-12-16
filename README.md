@@ -9,7 +9,7 @@
 |          | Managed | Latency  | Throughput | Pricing |
 | -------- | ------- | -------- | ---------- | ------- |
 | Option1  | Medium  | Medium   | on-demand  | Low     |
-| Option2  | Medium  | Medium   | on-demand  | High    |
+| Option2  | Medium  | Low      | on-demand  | High    |
 | Option3  | High    | High     | on-demand  | Medium  |
 
 ## implementation guidance
