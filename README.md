@@ -2,7 +2,7 @@
 
 ## architecture design
 
-<img width="791" alt="image" src="https://github.com/user-attachments/assets/30497882-1e43-44c8-835b-4a19140f351d" />
+<img width="791" alt="image" src="https://github.com/user-attachments/assets/a795c0cf-2670-43f0-92dd-123dd6c358bc" />
 
 ## options comparison
 
