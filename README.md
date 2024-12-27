@@ -10,7 +10,7 @@
 | -------- | ------- | ----------- | --------------- | ---------- | ------- |
 | Option1  | Medium  | High        | Medium (30s-60s)| on-demand  | Low     |
 | Option2  | Medium  | High        | Low (real-time) | on-demand  | High    |
-| Option3  | High    | High        | Medium (30s-60s)| on-demand  | Medium  |
+| Option3  | High    | High        | Medium (30s-60s)| on-demand  | High    |
 
 ## implementation guidance
 - [Option1 Lambda Sample](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/integrations-s3-lambda.html)
